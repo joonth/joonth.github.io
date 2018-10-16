@@ -25,7 +25,7 @@ discus-identifier: mr-brown # add your discus identifier
 analytics: # Google Analytics
 
 # Build Settings
-markdown: kramdown
+markdown: redcarpet
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
