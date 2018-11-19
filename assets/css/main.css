@@ -774,7 +774,7 @@ html {
 
 body {
   font-family: 'Noto Serif KR', sans-serif;
-  color: #515151;
+  color: black;
   background-color: #fbfbfb;
   margin: 0;
   -webkit-font-smoothing: antialiased;
@@ -930,7 +930,7 @@ table tfoot td {
   top: 0;
   left: 0;
   bottom: 0;
-  width: 240px;
+  width: 200px;
   height: 100%;
   padding: 20px 10px;
   background-color: #ffffff;
@@ -1118,8 +1118,8 @@ footer .copyright {
       -ms-flex-align: stretch;
           align-items: stretch;
   min-height: 11rem;
-  -webkit-border-radius: 10px;
-          border-radius: 10px;
+  -webkit-border-radius: 35px;
+          border-radius: 35px;
   overflow: hidden;
   -webkit-transition: all .3s ease;
   -o-transition: all .3s ease;
@@ -1137,7 +1137,7 @@ footer .copyright {
 }
 
 .post .post-thumbnail {
-  width: 30%;
+  width: 20%;
   max-width: 100%;
   min-height: 11rem;
   -webkit-background-size: cover;
@@ -1164,7 +1164,7 @@ footer .copyright {
 .post .post-content .post-title a {
   font-family: 'Noto Serif KR', sans-serif;
   text-decoration: none;
-  color: #263959;
+  color: black;
 }
 
 .post .post-content p {
