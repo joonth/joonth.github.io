@@ -84,11 +84,7 @@ hr {
  * 2. Correct the odd `em` font sizing in all browsers.
  */
 pre {
-  font-family: monospace, monospace;
-  /* 1 */
-  font-size: 1em;
-  /* 2 */
-}
+font-family: 'Noto Sans KR', sans-serif;
 
 /* Text-level semantics
    ========================================================================== */
@@ -140,7 +136,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  font-family: 'Noto Sans KR', sans-serif;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -231,7 +227,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -773,7 +769,7 @@ html {
 }
 
 body {
-  font-family: 'Noto Serif KR', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   color: black;
   background-color: #fbfbfb;
   margin: 0;
@@ -969,7 +965,7 @@ table tfoot td {
 }
 
 .about .author-name {
-font-family: 'Noto Serif KR', sans-serif;
+font-family: 'Noto Sans KR', sans-serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
@@ -1162,7 +1158,7 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'Noto Serif KR', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   text-decoration: none;
   color: black;
 }
